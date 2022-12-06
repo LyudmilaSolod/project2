@@ -1,3 +1,3 @@
-print('hy')
+print('good bye')
 print('people')
 #приветствие
