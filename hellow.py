@@ -1,3 +1,3 @@
-print('hellow')
+print('bye')
 print('people')
 #приветствие
