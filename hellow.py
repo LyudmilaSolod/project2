@@ -5,3 +5,4 @@ print('people')
 #приветствие
 number = input('Введите пароль')
 sername = input('Введите фамилию')
+data = input('Введите дату рождения')
